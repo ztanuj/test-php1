@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-echo "Hello World!! Learning Jenkins 3";
+echo "Hello World!! Learning Jenkins Freestyle Project";
 ?>
 </body>
 <html>
